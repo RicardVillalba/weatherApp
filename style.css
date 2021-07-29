@@ -1,9 +1,10 @@
 body {
   background: gainsboro;
   letter-spacing: 0.2em;
-  font-size: 0.8em;
+  font-size: 0.6em;
 }
 
 .container {
   max-width: 350px;
+  max-height: 100vh;
 }
